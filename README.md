@@ -2,7 +2,7 @@
 
 ## ――映画評における会話分析アプローチ・評価――
 
-[ここ](https://github.com/wp041/loveandpop-essay/blob/main/%E9%80%B1%E6%9C%AB%E6%89%B9%E8%A9%95%E6%8A%95%E7%A8%BF/%E6%9C%AC%E6%96%87.md#user-content-fn-1-93ddaa770ad3e6190c2d83ddcf8568af)から読めます
+[ここ](https://github.com/wp041/loveandpop-essay/blob/main/%E9%80%B1%E6%9C%AB%E6%89%B9%E8%A9%95%E6%8A%95%E7%A8%BF/%E6%9C%AC%E6%96%87.md)から読めます
 
 ### 概要
 
